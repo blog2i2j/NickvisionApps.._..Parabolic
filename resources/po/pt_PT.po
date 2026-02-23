@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-16 21:53-0500\n"
-"PO-Revision-Date: 2026-02-06 14:33+0000\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"PO-Revision-Date: 2026-02-20 21:50+0000\n"
+"Last-Translator: Manuel Batista <manuelbatista777@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/"
 "nickvision-tube-converter/app/pt_PT/>\n"
 "Language: pt_PT\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:27
 #: Nickvision.Parabolic.GNOME/Blueprints/MainWindow.blp:112
@@ -28,9 +28,8 @@ msgstr "Adicionar Transferência"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:40
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:59
-#, fuzzy
 msgid "Discover"
-msgstr "Recuperar"
+msgstr "Descobrir"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:50
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:63
@@ -82,11 +81,13 @@ msgid ""
 "Media will be downloaded based off of previously configured options and "
 "sensible defaults. Options will not be shown"
 msgstr ""
+"Os arquivos de mídia serão transferidos com base nas opções previamente "
+"configuradas e em valores padrão adequados. As opções não serão exibidas."
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:89
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:163
 msgid "Discovering Media"
-msgstr ""
+msgstr "Descobrindo a mídia"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:97
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:77
@@ -95,15 +96,13 @@ msgstr "Isto pode levar algum tempo..."
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:106
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:294
-#, fuzzy
 msgid "Configure"
-msgstr "Nenhuma descarga ativa"
+msgstr "Configurar"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:121
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:309
-#, fuzzy
 msgid "Search Subtitles"
-msgstr "Legendas"
+msgstr "Pesquisar legendas"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:127
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:145
@@ -158,11 +157,9 @@ msgstr "Tipo de Ficheiro"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:190
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:365
-#, fuzzy
 msgid "Generic types do not support embedding thumbnails and subtitles."
 msgstr ""
-"Se o tipo de ficheiro não suportar a incorporação, a miniatura será escrita "
-"num ficheiro de imagem separado"
+"Os tipos genéricos não suportam a incorporação de miniaturas e legendas."
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:194
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:90
@@ -185,15 +182,13 @@ msgstr "Legendas"
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:433
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:96
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:130
-#, fuzzy
 msgid "Search subtitles"
-msgstr "Legendas"
+msgstr "Procurar legendas"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:227
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:446
-#, fuzzy
 msgid "Available Subtitles"
-msgstr "Incorporar Legendas"
+msgstr "Legendas disponíveis"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:235
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:405
@@ -226,7 +221,6 @@ msgstr "Avançado"
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:384
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:480
 #: Nickvision.Parabolic.GNOME/Blueprints/HistoryDialog.blp:12
-#, fuzzy
 msgid "Options"
 msgstr "Opções Avançadas"
 
@@ -236,9 +230,8 @@ msgstr "Opções Avançadas"
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:98
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:133
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:134
-#, fuzzy
 msgid "Split into Files by Chapters"
-msgstr "Dividir Vídeos por Capítulos"
+msgstr "Dividir ficheiros por Capítulos"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:267
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:491

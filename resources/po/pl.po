@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-16 21:53-0500\n"
-"PO-Revision-Date: 2026-02-12 21:15+0000\n"
+"PO-Revision-Date: 2026-02-23 04:29+0000\n"
 "Last-Translator: Michał Dominik <fancy0duck@duck.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/nickvision-tube-"
 "converter/app/pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:27
 #: Nickvision.Parabolic.GNOME/Blueprints/MainWindow.blp:112
@@ -101,9 +101,8 @@ msgstr "Konfiguruj"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:121
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:309
-#, fuzzy
 msgid "Search Subtitles"
-msgstr "Napisy"
+msgstr "Szukaj napisów"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:127
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:145
@@ -182,9 +181,8 @@ msgstr "Napisy"
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:433
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:96
 #: Nickvision.Parabolic.WinUI/Views/AddDownloadDialog.xaml.cs:130
-#, fuzzy
 msgid "Search subtitles"
-msgstr "Napisy"
+msgstr "Szukaj napisów"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:227
 #: Nickvision.Parabolic.GNOME/Blueprints/AddDownloadDialog.blp:446
@@ -761,19 +759,17 @@ msgstr "Minimalny rozmiar pliku do podziału (w MiB)"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/PreferencesDialog.blp:306
 msgid "Specify extra arguments to pass to yt-dlp"
-msgstr ""
+msgstr "Określ dodatkowe argumenty do przekazania yt-dlp"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/PreferencesDialog.blp:309
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:101
-#, fuzzy
 msgid "yt-dlp Discovery Arguments"
-msgstr "Argumenty przetwarzania końcowego"
+msgstr "Argumenty odkrywania yt-dlp"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/PreferencesDialog.blp:318
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:104
-#, fuzzy
 msgid "yt-dlp Download Arguments"
-msgstr "Pobierz ponownie"
+msgstr "Argumenty pobierania yt-dlp"
 
 #: Nickvision.Parabolic.GNOME/Blueprints/PreferencesDialog.blp:329
 #: Nickvision.Parabolic.GNOME/Blueprints/PreferencesDialog.blp:333
@@ -1143,7 +1139,7 @@ msgstr "Trwa pobieranie plików. Czy chcesz je zatrzymać i wyjść?"
 #: Nickvision.Parabolic.WinUI/Views/MainWindow.xaml.cs:252
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:254
 msgid "Update"
-msgstr "Aktualizacja"
+msgstr "Aktualizuj"
 
 #: Nickvision.Parabolic.GNOME/Views/MainWindow.cs:245
 #: Nickvision.Parabolic.GNOME/Views/MainWindow.cs:364
@@ -1864,7 +1860,7 @@ msgstr "Odpowiada opcji -k"
 
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:102
 msgid "Extra arguments to pass to yt-dlp when discovering media"
-msgstr ""
+msgstr "Dodatkowe argumenty do przekazania yt-dlp podczas odkrywania mediów"
 
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:103
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:106
@@ -1874,7 +1870,7 @@ msgstr "Podaj tutaj argumenty"
 
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:105
 msgid "Extra arguments to pass to yt-dlp when downloading media"
-msgstr ""
+msgstr "Dodatkowe argumenty do przekazania yt-dlp podczas pobierania mediów"
 
 #: Nickvision.Parabolic.WinUI/Views/SettingsPage.xaml.cs:132
 msgid "Post-Processor Arguments"
